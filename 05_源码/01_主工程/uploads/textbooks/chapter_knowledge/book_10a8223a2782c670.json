@@ -1,0 +1,92 @@
+{
+  "textbook_id": "10a8223a2782c670",
+  "filename": "软件需求分析与建模-通用答疑语音辅导方案.md",
+  "content_hash": "10a8223a2782c670",
+  "core_topic": "软件需求分析与建模-通用答疑语音辅导方案",
+  "chapter_count": 1,
+  "total_kp_count": 8,
+  "chapters": [
+    {
+      "chapter_title": "软件需求分析与建模-通用答疑语音辅导方案·第1部分",
+      "chapter_index": 0,
+      "keywords": [
+        "需求分析",
+        "中断",
+        "信号",
+        "分类",
+        "软件需求分析",
+        "非功能需求",
+        "朗读节奏设计",
+        "内容类型"
+      ],
+      "summary": "# 软件需求分析与建模 · 通用答疑语音辅导方案 ## 一、方案概述 本方案面向正在学习《软件需求分析与建模》课程的学生，提供基于语音交互的智能答疑辅导。系统通过ASR识别学生问题，结合领域知识库给出结构化解答，并采用TTS自然朗读，辅以摄像头感知学生状态，实现沉浸式、自适应的一对一辅导。 --- ## 二、开场话术 > **系统语音（TTS，语速适中，语气…",
+      "char_count": 3176,
+      "knowledge_points": [
+        {
+          "id": "textbook-concept:c70c7b96e9c9",
+          "title": "需求分析",
+          "keywords": [
+            "需求分析"
+          ],
+          "chapter": "软件需求分析与建模-通用答疑语音辅导方案·第1部分"
+        },
+        {
+          "id": "textbook-concept:8ef624fcee7b",
+          "title": "中断",
+          "keywords": [
+            "中断"
+          ],
+          "chapter": "软件需求分析与建模-通用答疑语音辅导方案·第1部分"
+        },
+        {
+          "id": "textbook-concept:0e2832aef28b",
+          "title": "信号",
+          "keywords": [
+            "信号"
+          ],
+          "chapter": "软件需求分析与建模-通用答疑语音辅导方案·第1部分"
+        },
+        {
+          "id": "textbook-concept:3907c26e010d",
+          "title": "分类",
+          "keywords": [
+            "分类"
+          ],
+          "chapter": "软件需求分析与建模-通用答疑语音辅导方案·第1部分"
+        },
+        {
+          "id": "textbook-concept:8a556f8f60c0",
+          "title": "软件需求分析",
+          "keywords": [
+            "软件需求分析"
+          ],
+          "chapter": "软件需求分析与建模-通用答疑语音辅导方案·第1部分"
+        },
+        {
+          "id": "textbook-concept:a0c858353392",
+          "title": "非功能需求",
+          "keywords": [
+            "非功能需求"
+          ],
+          "chapter": "软件需求分析与建模-通用答疑语音辅导方案·第1部分"
+        },
+        {
+          "id": "textbook-concept:e3668b2442ee",
+          "title": "朗读节奏设计",
+          "keywords": [
+            "朗读节奏设计"
+          ],
+          "chapter": "软件需求分析与建模-通用答疑语音辅导方案·第1部分"
+        },
+        {
+          "id": "textbook-concept:3870b3d359ac",
+          "title": "内容类型",
+          "keywords": [
+            "内容类型"
+          ],
+          "chapter": "软件需求分析与建模-通用答疑语音辅导方案·第1部分"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,383 @@
+{
+  "textbook_id": "1c03b5464435c297",
+  "filename": "软件需求分析与建模-讲义一-需求获取与用例建模.md",
+  "content_hash": "1c03b5464435c297",
+  "core_topic": "软件需求分析与建模-讲义一-需求获取与用例建模",
+  "chapter_count": 8,
+  "total_kp_count": 33,
+  "chapters": [
+    {
+      "chapter_title": "一、需求工程在做什么",
+      "chapter_index": 0,
+      "keywords": [
+        "需求工程",
+        "需求分析",
+        "UML"
+      ],
+      "summary": "一、需求工程在做什么 软件出问题，多数不是\"写不出来\"，而是\"写错了\"。需求工程就是把\"用户想要什么\"变成\"开发能照着做、验收能照着查\"的过程，包含四步： 1. **需求获取（Elicitation）**：从涉众口中和现有材料里挖出真实诉求。 2. **需求分析（Analysis）**：判冲突、排优先级、划边界、建模型。 3. **需求规约（Specific…",
+      "char_count": 301,
+      "knowledge_points": [
+        {
+          "id": "textbook-concept:5cb99f1819b6",
+          "title": "需求工程",
+          "keywords": [
+            "需求工程"
+          ],
+          "chapter": "一、需求工程在做什么"
+        },
+        {
+          "id": "textbook-concept:f7facca460bf",
+          "title": "需求分析",
+          "keywords": [
+            "需求分析"
+          ],
+          "chapter": "一、需求工程在做什么"
+        },
+        {
+          "id": "textbook-concept:bfac3ea3fc16",
+          "title": "UML",
+          "keywords": [
+            "UML"
+          ],
+          "chapter": "一、需求工程在做什么"
+        }
+      ]
+    },
+    {
+      "chapter_title": "二、需求获取的五种手段",
+      "chapter_index": 1,
+      "keywords": [
+        "表单",
+        "遗漏隐性需求",
+        "文档分析",
+        "制度文件",
+        "交互类需求"
+      ],
+      "summary": "二、需求获取的五种手段 | 手段 | 适用场景 | 主要风险 | | --- | --- | --- | | 访谈 | 涉众少、领域知识在个别人脑子里 | 受访者说\"我以为你要的\"，遗漏隐性需求 | | 问卷 | 涉众多、要统计共性与优先级 | 问题设计有诱导性，答非所问 | | 观察（现场跟岗） | 业务流程复杂、当事人说不清自己怎么做 | 被观察者改变行…",
+      "char_count": 462,
+      "knowledge_points": [
+        {
+          "id": "textbook-concept:c63d81434a0e",
+          "title": "表单",
+          "keywords": [
+            "表单"
+          ],
+          "chapter": "二、需求获取的五种手段"
+        },
+        {
+          "id": "textbook-concept:422a71ea599e",
+          "title": "遗漏隐性需求",
+          "keywords": [
+            "遗漏隐性需求"
+          ],
+          "chapter": "二、需求获取的五种手段"
+        },
+        {
+          "id": "textbook-concept:abc352cc262f",
+          "title": "文档分析",
+          "keywords": [
+            "文档分析"
+          ],
+          "chapter": "二、需求获取的五种手段"
+        },
+        {
+          "id": "textbook-concept:ecefb7ec423b",
+          "title": "制度文件",
+          "keywords": [
+            "制度文件"
+          ],
+          "chapter": "二、需求获取的五种手段"
+        },
+        {
+          "id": "textbook-concept:360caf148b38",
+          "title": "交互类需求",
+          "keywords": [
+            "交互类需求"
+          ],
+          "chapter": "二、需求获取的五种手段"
+        }
+      ]
+    },
+    {
+      "chapter_title": "三、需求的分类",
+      "chapter_index": 2,
+      "keywords": [
+        "功能需求",
+        "非功能需求",
+        "约束",
+        "分类",
+        "身份认证",
+        "复用"
+      ],
+      "summary": "三、需求的分类 - **功能需求**：系统必须提供的动作与结果。例：\"学生可以选课，课程容量未满时选课成功。\" - **非功能需求**：质量与约束，常被漏掉却决定成败。例：并发 2000 人选课响应 2 秒内；成绩数据留存 5 年；支持 Chrome/Edge 近两个大版本。 - **约束**：不是系统属性而是外部给定条件。例：必须部署在校内网、必须复用统一…",
+      "char_count": 231,
+      "knowledge_points": [
+        {
+          "id": "textbook-concept:ae9bb349b9a1",
+          "title": "功能需求",
+          "keywords": [
+            "功能需求"
+          ],
+          "chapter": "三、需求的分类"
+        },
+        {
+          "id": "textbook-concept:b2ec278b99f7",
+          "title": "非功能需求",
+          "keywords": [
+            "非功能需求"
+          ],
+          "chapter": "三、需求的分类"
+        },
+        {
+          "id": "textbook-concept:d4d65a5b7b3a",
+          "title": "约束",
+          "keywords": [
+            "约束"
+          ],
+          "chapter": "三、需求的分类"
+        },
+        {
+          "id": "textbook-concept:157f775bdd12",
+          "title": "分类",
+          "keywords": [
+            "分类"
+          ],
+          "chapter": "三、需求的分类"
+        },
+        {
+          "id": "textbook-concept:b4b404dffc22",
+          "title": "身份认证",
+          "keywords": [
+            "身份认证"
+          ],
+          "chapter": "三、需求的分类"
+        },
+        {
+          "id": "textbook-concept:17281321ffcf",
+          "title": "复用",
+          "keywords": [
+            "复用"
+          ],
+          "chapter": "三、需求的分类"
+        }
+      ]
+    },
+    {
+      "chapter_title": "四、用例图：参与者、用例、边界",
+      "chapter_index": 3,
+      "keywords": [
+        "参与者",
+        "用例",
+        "系统边界",
+        "身份认证"
+      ],
+      "summary": "四、用例图：参与者、用例、边界 ### 4.1 参与者（Actor） 参与者是**与系统交互的外部角色**，不是具体的人，也不是系统内部的模块。识别参与者问三句话： 1. 谁使用系统的主要功能？ 2. 谁需要系统主动提供信息（如定时报表的接收者）？ 3. 系统要和哪些外部系统/设备交互（如统一身份认证、支付网关）？ 判定要点：外部系统也算参与者；同一个人如果…",
+      "char_count": 447,
+      "knowledge_points": [
+        {
+          "id": "textbook-concept:6a9015933599",
+          "title": "参与者",
+          "keywords": [
+            "参与者"
+          ],
+          "chapter": "四、用例图：参与者、用例、边界"
+        },
+        {
+          "id": "textbook-concept:6b5652fe3d20",
+          "title": "用例",
+          "keywords": [
+            "用例"
+          ],
+          "chapter": "四、用例图：参与者、用例、边界"
+        },
+        {
+          "id": "textbook-concept:abd96590101c",
+          "title": "系统边界",
+          "keywords": [
+            "系统边界"
+          ],
+          "chapter": "四、用例图：参与者、用例、边界"
+        },
+        {
+          "id": "textbook-concept:99ec82faad88",
+          "title": "身份认证",
+          "keywords": [
+            "身份认证"
+          ],
+          "chapter": "四、用例图：参与者、用例、边界"
+        }
+      ]
+    },
+    {
+      "chapter_title": "五、用例之间的关系（本讲重点）",
+      "chapter_index": 4,
+      "keywords": [
+        "包含 include",
+        "扩展 extend",
+        "泛化",
+        "语义",
+        "选课",
+        "校验容量",
+        "提交作业",
+        "校验截止时间",
+        "进入等待队列",
+        "借书",
+        "缴纳滞纳金",
+        "支付",
+        "微信支付",
+        "校园卡支付"
+      ],
+      "summary": "五、用例之间的关系（本讲重点） ### 5.1 包含 include **语义**：基础用例**每次执行都必须**执行被包含用例，被包含部分是多个用例共用的**必做片段**。 - 方向：基础用例 `----include----> 被包含用例` - 例：`选课` include `校验容量`；`提交作业` include `校验截止时间`。 - 判定口诀：*…",
+      "char_count": 1035,
+      "knowledge_points": [
+        {
+          "id": "textbook-concept:cdf53a3ae6c9",
+          "title": "包含 include",
+          "keywords": [
+            "包含 include"
+          ],
+          "chapter": "五、用例之间的关系（本讲重点）"
+        },
+        {
+          "id": "textbook-concept:8b52aef804ef",
+          "title": "扩展 extend",
+          "keywords": [
+            "扩展 extend"
+          ],
+          "chapter": "五、用例之间的关系（本讲重点）"
+        },
+        {
+          "id": "textbook-concept:75d9e639ef49",
+          "title": "泛化",
+          "keywords": [
+            "泛化"
+          ],
+          "chapter": "五、用例之间的关系（本讲重点）"
+        },
+        {
+          "id": "textbook-concept:b39848704bf8",
+          "title": "语义",
+          "keywords": [
+            "语义"
+          ],
+          "chapter": "五、用例之间的关系（本讲重点）"
+        },
+        {
+          "id": "textbook-concept:e98a7f6e4b99",
+          "title": "选课",
+          "keywords": [
+            "选课"
+          ],
+          "chapter": "五、用例之间的关系（本讲重点）"
+        },
+        {
+          "id": "textbook-concept:41f2c1a0073b",
+          "title": "校验容量",
+          "keywords": [
+            "校验容量"
+          ],
+          "chapter": "五、用例之间的关系（本讲重点）"
+        },
+        {
+          "id": "textbook-concept:e15f5d361c8a",
+          "title": "提交作业",
+          "keywords": [
+            "提交作业"
+          ],
+          "chapter": "五、用例之间的关系（本讲重点）"
+        },
+        {
+          "id": "textbook-concept:8649db716365",
+          "title": "校验截止时间",
+          "keywords": [
+            "校验截止时间"
+          ],
+          "chapter": "五、用例之间的关系（本讲重点）"
+        },
+        {
+          "id": "textbook-concept:d2b9fc4ac2fb",
+          "title": "进入等待队列",
+          "keywords": [
+            "进入等待队列"
+          ],
+          "chapter": "五、用例之间的关系（本讲重点）"
+        },
+        {
+          "id": "textbook-concept:25f067b7dde9",
+          "title": "借书",
+          "keywords": [
+            "借书"
+          ],
+          "chapter": "五、用例之间的关系（本讲重点）"
+        },
+        {
+          "id": "textbook-concept:d796fc6bbf83",
+          "title": "缴纳滞纳金",
+          "keywords": [
+            "缴纳滞纳金"
+          ],
+          "chapter": "五、用例之间的关系（本讲重点）"
+        },
+        {
+          "id": "textbook-concept:2b1dda906ba3",
+          "title": "支付",
+          "keywords": [
+            "支付"
+          ],
+          "chapter": "五、用例之间的关系（本讲重点）"
+        },
+        {
+          "id": "textbook-concept:161e56e238b6",
+          "title": "微信支付",
+          "keywords": [
+            "微信支付"
+          ],
+          "chapter": "五、用例之间的关系（本讲重点）"
+        },
+        {
+          "id": "textbook-concept:5dd934e4752f",
+          "title": "校园卡支付",
+          "keywords": [
+            "校园卡支付"
+          ],
+          "chapter": "五、用例之间的关系（本讲重点）"
+        }
+      ]
+    },
+    {
+      "chapter_title": "六、用例描述模板",
+      "chapter_index": 5,
+      "keywords": [
+        "教务系统"
+      ],
+      "summary": "六、用例描述模板 用例图说不清细节，必须配用例描述（用例规约）。最小可用模板： ``` 用例名称：选课 参与者：学生（主）；教务系统（次） 前置条件：学生已登录且处于选课开放期 主流程： 1. 学生提交课程编号 2. 系统校验课程存在且在开放期 3. 系统校验容量：未满则写入选课记录，返回\"选课成功\" 后置条件：选课记录存在，课程余量减 1 备选流： 3a.…",
+      "char_count": 374,
+      "knowledge_points": [
+        {
+          "id": "textbook-concept:a942e45b21d1",
+          "title": "教务系统",
+          "keywords": [
+            "教务系统"
+          ],
+          "chapter": "六、用例描述模板"
+        }
+      ]
+    },
+    {
+      "chapter_title": "七、从用例到可验收的需求",
+      "chapter_index": 6,
+      "keywords": [],
+      "summary": "七、从用例到可验收的需求 用例只交付\"能做什么\"，验收还需要可判定的标准： 1. 每个用例至少一条**验收标准**，写成\"给定—当—则\"：给定课程容量已满，当学生提交选课，则返回排队序号且不产生选课记录。 2. 非功能需求单独成表，逐条给出度量方式（响应时间、并发数、留存期、兼容范围）。 3. 需求之间做**冲突检查**：如\"成绩即时可见\"与\"成绩需教师复核…",
+      "char_count": 208,
+      "knowledge_points": []
+    },
+    {
+      "chapter_title": "八、自测题",
+      "chapter_index": 7,
+      "keywords": [],
+      "summary": "八、自测题 1. 判断关系：`提交作业` 与 `校验截止时间` 之间是 include 还是 extend？为什么？ 2. 判断关系：`借书` 与\"有逾期时缴纳滞纳金\"之间是什么关系？箭头指向谁？ 3. 找出错误：某小组把 `登录` 画成 include 到 `选课`、`退课`、`查成绩` 三个用例，另把 `打印成绩单` 也写成 include 到 `查成绩…",
+      "char_count": 549,
+      "knowledge_points": []
+    }
+  ]
+}

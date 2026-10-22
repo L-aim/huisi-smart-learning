@@ -1,0 +1,3099 @@
+[
+  {
+    "job_id": "job_001",
+    "job_name": "Java开发工程师",
+    "job_category": "技术",
+    "city": [
+      "北京",
+      "上海",
+      "深圳",
+      "杭州",
+      "广州",
+      "成都"
+    ],
+    "skill_require": {
+      "hard_skills": [
+        "Java",
+        "Spring Boot",
+        "Spring Cloud",
+        "MySQL",
+        "Redis",
+        "MQ"
+      ],
+      "soft_skills": [
+        "沟通能力",
+        "团队协作",
+        "问题排查能力",
+        "代码规范意识",
+        "创新能力",
+        "抗压能力",
+        "学习能力"
+      ]
+    },
+    "education_require": [
+      "本科及以上"
+    ],
+    "certificate_require": [
+      "Oracle认证Java程序员",
+      "AWS认证开发者"
+    ],
+    "experience_require": "3年以上",
+    "job_responsibility": [
+      "负责公司后端服务的设计、开发与迭代",
+      "参与系统架构设计，保障服务高可用、高性能",
+      "与产品、测试团队配合，完成需求落地"
+    ],
+    "core_competency": [
+      "Java",
+      "Spring Boot",
+      "Spring Cloud",
+      "MySQL",
+      "Redis",
+      "MQ",
+      "沟通能力",
+      "团队协作",
+      "问题排查能力",
+      "代码规范意识"
+    ],
+    "salary_range": "面议",
+    "industry": [
+      "互联网"
+    ],
+    "related_jobs": []
+  },
+  {
+    "job_id": "job_002",
+    "job_name": "前端开发工程师",
+    "job_category": "技术",
+    "city": [
+      "北京",
+      "上海",
+      "深圳",
+      "广州",
+      "杭州",
+      "成都"
+    ],
+    "skill_require": {
+      "hard_skills": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Vue",
+        "React",
+        "Node.js"
+      ],
+      "soft_skills": [
+        "沟通能力",
+        "团队协作",
+        "问题解决能力",
+        "审美能力",
+        "创新能力",
+        "抗压能力",
+        "学习能力"
+      ]
+    },
+    "education_require": [
+      "本科及以上"
+    ],
+    "certificate_require": [
+      "前端工程师认证",
+      "AWS认证开发者"
+    ],
+    "experience_require": "2年以上",
+    "job_responsibility": [
+      "负责公司Web端、移动端产品的前端开发与优化",
+      "与UI、后端团队配合，还原设计稿，实现交互逻辑",
+      "持续优化前端体验，提升页面加载速度和兼容性"
+    ],
+    "core_competency": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Vue",
+      "React",
+      "Node.js",
+      "沟通能力",
+      "团队协作",
+      "问题解决能力",
+      "审美能力"
+    ],
+    "salary_range": "面议",
+    "industry": [
+      "互联网"
+    ],
+    "related_jobs": []
+  },
+  {
+    "job_id": "job_003",
+    "job_name": "产品经理",
+    "job_category": "产品",
+    "city": [
+      "北京",
+      "上海",
+      "深圳",
+      "杭州",
+      "广州",
+      "成都"
+    ],
+    "skill_require": {
+      "hard_skills": [
+        "Axure",
+        "XMind",
+        "PRD文档编写",
+        "需求拆解"
+      ],
+      "soft_skills": [
+        "用户洞察",
+        "逻辑思维",
+        "跨团队沟通",
+        "项目管理",
+        "创新能力",
+        "抗压能力",
+        "学习能力"
+      ]
+    },
+    "education_require": [
+      "本科及以上"
+    ],
+    "certificate_require": [
+      "NPDP产品经理认证",
+      "PMP项目管理认证"
+    ],
+    "experience_require": "2年以上",
+    "job_responsibility": [
+      "负责产品的需求调研、规划与设计，输出PRD文档",
+      "协调研发、设计、运营团队，推动产品落地与迭代",
+      "跟踪产品数据，持续优化产品体验，提升用户价值"
+    ],
+    "core_competency": [
+      "Axure",
+      "XMind",
+      "PRD文档编写",
+      "需求拆解",
+      "用户洞察",
+      "逻辑思维",
+      "跨团队沟通",
+      "项目管理",
+      "创新能力",
+      "抗压能力"
+    ],
+    "salary_range": "面议",
+    "industry": [
+      "互联网"
+    ],
+    "related_jobs": []
+  },
+  {
+    "job_id": "job_004",
+    "job_name": "UI设计师",
+    "job_category": "设计",
+    "city": [
+      "北京",
+      "上海",
+      "深圳",
+      "广州",
+      "杭州",
+      "成都"
+    ],
+    "skill_require": {
+      "hard_skills": [
+        "Figma",
+        "PS",
+        "AI",
+        "交互设计",
+        "设计规范搭建"
+      ],
+      "soft_skills": [
+        "审美能力",
+        "用户思维",
+        "创意能力",
+        "沟通协作",
+        "创新能力",
+        "抗压能力",
+        "学习能力"
+      ]
+    },
+    "education_require": [
+      "本科及以上"
+    ],
+    "certificate_require": [
+      "Adobe认证设计师",
+      "Figma认证"
+    ],
+    "experience_require": "2年以上",
+    "job_responsibility": [
+      "负责产品的界面设计、交互设计，输出高保真设计稿",
+      "参与用户研究，持续优化产品的用户体验",
+      "建立和维护设计规范体系，保障设计一致性"
+    ],
+    "core_competency": [
+      "Figma",
+      "PS",
+      "AI",
+      "交互设计",
+      "设计规范搭建",
+      "审美能力",
+      "用户思维",
+      "创意能力",
+      "沟通协作",
+      "创新能力"
+    ],
+    "salary_range": "面议",
+    "industry": [
+      "互联网"
+    ],
+    "related_jobs": []
+  },
+  {
+    "job_id": "job_005",
+    "job_name": "新媒体运营",
+    "job_category": "运营",
+    "city": [
+      "北京",
+      "上海",
+      "深圳",
+      "广州",
+      "杭州",
+      "成都",
+      "全国远程"
+    ],
+    "skill_require": {
+      "hard_skills": [
+        "文案写作",
+        "内容策划",
+        "视频剪辑",
+        "图文排版",
+        "数据分析"
+      ],
+      "soft_skills": [
+        "热点敏感度",
+        "创意能力",
+        "用户运营思维",
+        "执行力",
+        "创新能力",
+        "抗压能力",
+        "学习能力"
+      ]
+    },
+    "education_require": [
+      "大专及以上"
+    ],
+    "certificate_require": [
+      "新媒体运营师认证",
+      "互联网营销师认证"
+    ],
+    "experience_require": "1年以上",
+    "job_responsibility": [
+      "负责公司微信公众号、抖音、小红书等新媒体平台的内容策划与运营",
+      "完成账号的涨粉、互动、转化目标，跟踪运营数据并优化",
+      "策划线上活动，提升品牌影响力和用户活跃度"
+    ],
+    "core_competency": [
+      "文案写作",
+      "内容策划",
+      "视频剪辑",
+      "图文排版",
+      "数据分析",
+      "热点敏感度",
+      "创意能力",
+      "用户运营思维",
+      "执行力",
+      "创新能力"
+    ],
+    "salary_range": "面议",
+    "industry": [
+      "互联网"
+    ],
+    "related_jobs": []
+  },
+  {
+    "job_id": "job_006",
+    "job_name": "数据分析师",
+    "job_category": "技术",
+    "city": [
+      "北京",
+      "上海",
+      "深圳",
+      "杭州",
+      "广州",
+      "成都"
+    ],
+    "skill_require": {
+      "hard_skills": [
+        "SQL",
+        "Python",
+        "Excel",
+        "Tableau",
+        "Power BI",
+        "数据建模"
+      ],
+      "soft_skills": [
+        "逻辑思维",
+        "业务理解能力",
+        "数据分析能力",
+        "报告输出能力",
+        "创新能力",
+        "抗压能力",
+        "学习能力"
+      ]
+    },
+    "education_require": [
+      "本科及以上"
+    ],
+    "certificate_require": [
+      "数据分析师认证",
+      "SQL认证"
+    ],
+    "experience_require": "2年以上",
+    "job_responsibility": [
+      "负责公司业务数据的收集、清洗、分析，输出数据分析报告",
+      "搭建业务数据指标体系，为业务决策提供数据支撑",
+      "配合业务团队，完成专项数据分析项目"
+    ],
+    "core_competency": [
+      "SQL",
+      "Python",
+      "Excel",
+      "Tableau",
+      "Power BI",
+      "数据建模",
+      "逻辑思维",
+      "业务理解能力",
+      "数据分析能力",
+      "报告输出能力"
+    ],
+    "salary_range": "面议",
+    "industry": [
+      "互联网"
+    ],
+    "related_jobs": []
+  },
+  {
+    "job_id": "job_007",
+    "job_name": "人力资源专员",
+    "job_category": "职能",
+    "city": [
+      "北京",
+      "上海",
+      "深圳",
+      "广州",
+      "杭州",
+      "成都"
+    ],
+    "skill_require": {
+      "hard_skills": [
+        "招聘全流程管理",
+        "劳动法",
+        "办公软件",
+        "员工关系管理"
+      ],
+      "soft_skills": [
+        "沟通能力",
+        "亲和力",
+        "执行力",
+        "保密意识",
+        "创新能力",
+        "抗压能力",
+        "学习能力"
+      ]
+    },
+    "education_require": [
+      "本科及以上"
+    ],
+    "certificate_require": [
+      "企业人力资源管理师",
+      "劳动关系协调员"
+    ],
+    "experience_require": "1年以上",
+    "job_responsibility": [
+      "负责公司招聘、培训、绩效、员工关系等人力资源模块工作",
+      "拓展招聘渠道，完成招聘目标",
+      "落地公司人力资源制度，提升员工满意度"
+    ],
+    "core_competency": [
+      "招聘全流程管理",
+      "劳动法",
+      "办公软件",
+      "员工关系管理",
+      "沟通能力",
+      "亲和力",
+      "执行力",
+      "保密意识",
+      "创新能力",
+      "抗压能力"
+    ],
+    "salary_range": "面议",
+    "industry": [
+      "互联网"
+    ],
+    "related_jobs": []
+  },
+  {
+    "job_id": "job_008",
+    "job_name": "销售经理",
+    "job_category": "市场",
+    "city": [
+      "北京",
+      "上海",
+      "深圳",
+      "广州",
+      "杭州",
+      "全国"
+    ],
+    "skill_require": {
+      "hard_skills": [
+        "商务谈判",
+        "销售方案设计",
+        "客户管理",
+        "回款跟进"
+      ],
+      "soft_skills": [
+        "目标感",
+        "抗压能力",
+        "客户拓展能力",
+        "沟通能力",
+        "创新能力",
+        "学习能力"
+      ]
+    },
+    "education_require": [
+      "大专及以上"
+    ],
+    "certificate_require": [
+      "销售师认证",
+      "市场营销师认证"
+    ],
+    "experience_require": "1年以上",
+    "job_responsibility": [
+      "负责公司产品的销售与推广，完成销售业绩目标",
+      "开拓新客户，维护老客户，建立长期合作关系",
+      "跟进销售全流程，完成合同签订与回款"
+    ],
+    "core_competency": [
+      "商务谈判",
+      "销售方案设计",
+      "客户管理",
+      "回款跟进",
+      "目标感",
+      "抗压能力",
+      "客户拓展能力",
+      "沟通能力",
+      "创新能力",
+      "学习能力"
+    ],
+    "salary_range": "面议",
+    "industry": [
+      "互联网"
+    ],
+    "related_jobs": []
+  },
+  {
+    "job_id": "job_009",
+    "job_name": "软件测试工程师",
+    "job_category": "技术",
+    "city": [
+      "北京",
+      "上海",
+      "深圳",
+      "杭州",
+      "广州",
+      "成都"
+    ],
+    "skill_require": {
+      "hard_skills": [
+        "功能测试",
+        "接口测试",
+        "性能测试",
+        "Postman",
+        "Jmeter",
+        "Python/Java自动化测试"
+      ],
+      "soft_skills": [
+        "细心严谨",
+        "问题排查能力",
+        "逻辑思维",
+        "团队协作",
+        "创新能力",
+        "抗压能力",
+        "学习能力"
+      ]
+    },
+    "education_require": [
+      "本科及以上"
+    ],
+    "certificate_require": [
+      "ISTQB测试工程师认证",
+      "软件测试高级证书"
+    ],
+    "experience_require": "2年以上",
+    "job_responsibility": [
+      "负责公司产品的功能测试、接口测试、性能测试",
+      "设计测试用例，执行测试流程，提交并跟踪bug",
+      "保障产品上线质量，优化测试流程"
+    ],
+    "core_competency": [
+      "功能测试",
+      "接口测试",
+      "性能测试",
+      "Postman",
+      "Jmeter",
+      "Python/Java自动化测试",
+      "细心严谨",
+      "问题排查能力",
+      "逻辑思维",
+      "团队协作"
+    ],
+    "salary_range": "面议",
+    "industry": [
+      "互联网"
+    ],
+    "related_jobs": []
+  },
+  {
+    "job_id": "job_010",
+    "job_name": "品牌策划",
+    "job_category": "市场",
+    "city": [
+      "北京",
+      "上海",
+      "深圳",
+      "广州",
+      "杭州",
+      "成都"
+    ],
+    "skill_require": {
+      "hard_skills": [
+        "品牌策略制定",
+        "全案策划",
+        "内容策划",
+        "市场推广",
+        "舆情管理"
+      ],
+      "soft_skills": [
+        "市场洞察能力",
+        "创意策划能力",
+        "项目管理能力",
+        "文案写作能力",
+        "创新能力",
+        "抗压能力",
+        "学习能力"
+      ]
+    },
+    "education_require": [
+      "本科及以上"
+    ],
+    "certificate_require": [
+      "品牌管理师认证",
+      "策划师认证"
+    ],
+    "experience_require": "2年以上",
+    "job_responsibility": [
+      "负责公司品牌定位、品牌策略制定与落地",
+      "策划品牌推广活动、品牌内容，提升品牌知名度和美誉度",
+      "维护品牌形象，处理品牌相关舆情"
+    ],
+    "core_competency": [
+      "品牌策略制定",
+      "全案策划",
+      "内容策划",
+      "市场推广",
+      "舆情管理",
+      "市场洞察能力",
+      "创意策划能力",
+      "项目管理能力",
+      "文案写作能力",
+      "创新能力"
+    ],
+    "salary_range": "面议",
+    "industry": [
+      "互联网"
+    ],
+    "related_jobs": []
+  },
+  {
+    "job_id": "job_011",
+    "job_name": "初级Java开发工程师",
+    "job_category": "技术",
+    "city": [
+      "北京",
+      "上海",
+      "深圳",
+      "杭州",
+      "广州",
+      "成都"
+    ],
+    "skill_require": {
+      "hard_skills": [
+        "Java基础",
+        "Spring Boot",
+        "MySQL",
+        "SQL优化"
+      ],
+      "soft_skills": [
+        "学习能力",
+        "团队协作",
+        "代码规范意识",
+        "问题解决能力",
+        "创新能力",
+        "抗压能力"
+      ]
+    },
+    "education_require": [
+      "本科及以上"
+    ],
+    "certificate_require": [
+      "相关职业资格证书"
+    ],
+    "experience_require": "应届生可投",
+    "job_responsibility": [
+      "参与后端服务的功能开发与单元测试",
+      "配合资深工程师完成系统迭代与bug修复",
+      "编写开发文档，保障代码质量"
+    ],
+    "core_competency": [
+      "Java基础",
+      "Spring Boot",
+      "MySQL",
+      "SQL优化",
+      "学习能力",
+      "团队协作",
+      "代码规范意识",
+      "问题解决能力",
+      "创新能力",
+      "抗压能力"
+    ],
+    "salary_range": "面议",
+    "industry": [
+      "互联网"
+    ],
+    "related_jobs": []
+  },
+  {
+    "job_id": "job_012",
+    "job_name": "高级Java开发工程师",
+    "job_category": "技术",
+    "city": [
+      "北京",
+      "上海",
+      "深圳",
+      "杭州",
+      "广州",
+      "成都"
+    ],
+    "skill_require": {
+      "hard_skills": [
+        "Java",
+        "Spring Cloud",
+        "分布式系统架构",
+        "MySQL",
+        "Redis",
+        "MQ",
+        "高并发高可用方案设计"
+      ],
+      "soft_skills": [
+        "技术管理能力",
+        "团队指导能力",
+        "技术攻坚能力",
+        "架构设计能力",
+        "创新能力",
+        "抗压能力",
+        "学习能力"
+      ]
+    },
+    "education_require": [
+      "本科及以上"
+    ],
+    "certificate_require": [
+      "相关职业资格证书"
+    ],
+    "experience_require": "5年以上",
+    "job_responsibility": [
+      "负责核心系统的架构设计与技术攻坚",
+      "指导初级工程师，制定技术规范",
+      "参与技术选型，解决线上高并发、高可用问题"
+    ],
+    "core_competency": [
+      "Java",
+      "Spring Cloud",
+      "分布式系统架构",
+      "MySQL",
+      "Redis",
+      "MQ",
+      "高并发高可用方案设计",
+      "技术管理能力",
+      "团队指导能力",
+      "技术攻坚能力"
+    ],
+    "salary_range": "面议",
+    "industry": [
+      "互联网"
+    ],
+    "related_jobs": []
+  },
+  {
+    "job_id": "job_013",
+    "job_name": "初级产品经理",
+    "job_category": "产品",
+    "city": [
+      "北京",
+      "上海",
+      "深圳",
+      "杭州",
+      "广州",
+      "成都"
+    ],
+    "skill_require": {
+      "hard_skills": [
+        "Axure",
+        "XMind",
+        "需求文档编写",
+        "用户调研"
+      ],
+      "soft_skills": [
+        "逻辑思维",
+        "学习能力",
+        "沟通能力",
+        "执行力",
+        "创新能力",
+        "抗压能力"
+      ]
+    },
+    "education_require": [
+      "本科及以上"
+    ],
+    "certificate_require": [
+      "产品经理认证（初级）"
+    ],
+    "experience_require": "应届生可投",
+    "job_responsibility": [
+      "协助产品经理完成用户调研、需求收集与整理",
+      "协助编写产品需求文档，绘制产品原型",
+      "跟进产品开发进度，配合完成产品测试与上线"
+    ],
+    "core_competency": [
+      "Axure",
+      "XMind",
+      "需求文档编写",
+      "用户调研",
+      "逻辑思维",
+      "学习能力",
+      "沟通能力",
+      "执行力",
+      "创新能力",
+      "抗压能力"
+    ],
+    "salary_range": "面议",
+    "industry": [
+      "互联网"
+    ],
+    "related_jobs": []
+  },
+  {
+    "job_id": "job_014",
+    "job_name": "高级产品经理",
+    "job_category": "产品",
+    "city": [
+      "北京",
+      "上海",
+      "深圳",
+      "杭州",
+      "广州",
+      "成都"
+    ],
+    "skill_require": {
+      "hard_skills": [
+        "产品战略规划",
+        "产品线管理",
+        "商业模型设计",
+        "数据体系搭建"
+      ],
+      "soft_skills": [
+        "团队管理能力",
+        "资源协调能力",
+        "商业洞察能力",
+        "项目管理能力",
+        "创新能力",
+        "抗压能力",
+        "学习能力"
+      ]
+    },
+    "education_require": [
+      "本科及以上"
+    ],
+    "certificate_require": [
+      "NPDP产品经理认证",
+      "PMP项目管理认证"
+    ],
+    "experience_require": "5年以上",
+    "job_responsibility": [
+      "负责产品线的整体战略规划与商业目标达成",
+      "管理产品团队，制定产品迭代路线与优先级",
+      "协调跨部门资源，推动核心产品项目落地",
+      "基于市场与用户数据，持续优化产品商业价值"
+    ],
+    "core_competency": [
+      "产品战略规划",
+      "产品线管理",
+      "商业模型设计",
+      "数据体系搭建",
+      "团队管理能力",
+      "资源协调能力",
+      "商业洞察能力",
+      "项目管理能力",
+      "创新能力",
+      "抗压能力"
+    ],
+    "salary_range": "面议",
+    "industry": [
+      "互联网"
+    ],
+    "related_jobs": []
+  },
+  {
+    "job_id": "job_015",
+    "job_name": "AI产品经理",
+    "job_category": "产品",
+    "city": [
+      "北京",
+      "上海",
+      "深圳",
+      "杭州",
+      "广州"
+    ],
+    "skill_require": {
+      "hard_skills": [
+        "大模型产品设计",
+        "Prompt工程",
+        "LLM应用落地",
+        "AI能力拆解"
+      ],
+      "soft_skills": [
+        "技术理解能力",
+        "用户洞察",
+        "跨团队沟通",
+        "创新思维",
+        "创新能力",
+        "抗压能力",
+        "学习能力"
+      ]
+    },
+    "education_require": [
+      "本科及以上"
+    ],
+    "certificate_require": [
+      "AI产品经理认证",
+      "Prompt工程师认证"
+    ],
+    "experience_require": "3年以上",
+    "job_responsibility": [
+      "负责AI大模型相关产品的需求调研、规划与设计",
+      "对接算法团队，拆解AI能力，落地产品化场景",
+      "设计AI产品的交互逻辑与用户体验，推动产品迭代",
+      "跟踪AI产品效果，持续优化模型与产品的结合方案"
+    ],
+    "core_competency": [
+      "大模型产品设计",
+      "Prompt工程",
+      "LLM应用落地",
+      "AI能力拆解",
+      "技术理解能力",
+      "用户洞察",
+      "跨团队沟通",
+      "创新思维",
+      "创新能力",
+      "抗压能力"
+    ],
+    "salary_range": "面议",
+    "industry": [
+      "互联网"
+    ],
+    "related_jobs": []
+  },
+  {
+    "job_id": "job_016",
+    "job_name": "UX用户体验设计师",
+    "job_category": "设计",
+    "city": [
+      "北京",
+      "上海",
+      "深圳",
+      "杭州",
+      "广州",
+      "成都"
+    ],
+    "skill_require": {
+      "hard_skills": [
+        "用户研究",
+        "可用性测试",
+        "用户旅程地图",
+        "交互原型设计",
+        "Figma"
+      ],
+      "soft_skills": [
+        "用户思维",
+        "同理心",
+        "逻辑思维",
+        "沟通协作",
+        "创新能力",
+        "抗压能力",
+        "学习能力"
+      ]
+    },
+    "education_require": [
+      "本科及以上"
+    ],
+    "certificate_require": [
+      "UX认证",
+      "人机交互设计师认证"
+    ],
+    "experience_require": "2年以上",
+    "job_responsibility": [
+      "负责产品的用户研究，挖掘用户需求与痛点",
+      "设计产品的交互流程、信息架构与用户旅程",
+      "开展可用性测试，持续优化产品的用户体验",
+      "与UI设计师、产品经理配合，落地体验设计方案"
+    ],
+    "core_competency": [
+      "用户研究",
+      "可用性测试",
+      "用户旅程地图",
+      "交互原型设计",
+      "Figma",
+      "用户思维",
+      "同理心",
+      "逻辑思维",
+      "沟通协作",
+      "创新能力"
+    ],
+    "salary_range": "面议",
+    "industry": [
+      "互联网"
+    ],
+    "related_jobs": []
+  },
+  {
+    "job_id": "job_017",
+    "job_name": "品牌视觉设计师",
+    "job_category": "设计",
+    "city": [
+      "北京",
+      "上海",
+      "深圳",
+      "广州",
+      "杭州",
+      "成都"
+    ],
+    "skill_require": {
+      "hard_skills": [
+        "PS",
+        "AI",
+        "品牌VI设计",
+        "视觉系统搭建",
+        "平面设计"
+      ],
+      "soft_skills": [
+        "审美能力",
+        "品牌思维",
+        "创意能力",
+        "沟通协作",
+        "创新能力",
+        "抗压能力",
+        "学习能力"
+      ]
+    },
+    "education_require": [
+      "本科及以上"
+    ],
+    "certificate_require": [
+      "Adobe认证专家",
+      "品牌设计师认证"
+    ],
+    "experience_require": "2年以上",
+    "job_responsibility": [
+      "负责品牌视觉体系搭建，设计品牌VI系统",
+      "完成品牌相关的海报、画册、物料等平面设计",
+      "配合市场团队，完成品牌推广相关的视觉设计",
+      "维护品牌视觉规范，保障品牌视觉一致性"
+    ],
+    "core_competency": [
+      "PS",
+      "AI",
+      "品牌VI设计",
+      "视觉系统搭建",
+      "平面设计",
+      "审美能力",
+      "品牌思维",
+      "创意能力",
+      "沟通协作",
+      "创新能力"
+    ],
+    "salary_range": "面议",
+    "industry": [
+      "互联网"
+    ],
+    "related_jobs": []
+  },
+  {
+    "job_id": "job_018",
+    "job_name": "用户运营",
+    "job_category": "运营",
+    "city": [
+      "北京",
+      "上海",
+      "深圳",
+      "广州",
+      "杭州",
+      "成都"
+    ],
+    "skill_require": {
+      "hard_skills": [
+        "用户生命周期管理",
+        "用户分层运营",
+        "社群运营",
+        "数据分析"
+      ],
+      "soft_skills": [
+        "同理心",
+        "沟通能力",
+        "用户思维",
+        "执行力",
+        "创新能力",
+        "抗压能力",
+        "学习能力"
+      ]
+    },
+    "education_require": [
+      "大专及以上"
+    ],
+    "certificate_require": [
+      "用户增长认证",
+      "数据分析认证"
+    ],
+    "experience_require": "1年以上",
+    "job_responsibility": [
+      "负责用户全生命周期运营，提升用户留存、活跃与转化",
+      "搭建用户分层体系，针对不同用户群体制定运营策略",
+      "运营用户社群，维护用户关系，提升用户粘性",
+      "跟踪用户运营数据，优化运营策略与方案"
+    ],
+    "core_competency": [
+      "用户生命周期管理",
+      "用户分层运营",
+      "社群运营",
+      "数据分析",
+      "同理心",
+      "沟通能力",
+      "用户思维",
+      "执行力",
+      "创新能力",
+      "抗压能力"
+    ],
+    "salary_range": "面议",
+    "industry": [
+      "互联网"
+    ],
+    "related_jobs": []
+  },
+  {
+    "job_id": "job_019",
+    "job_name": "内容运营",
+    "job_category": "运营",
+    "city": [
+      "北京",
+      "上海",
+      "深圳",
+      "广州",
+      "杭州",
+      "成都"
+    ],
+    "skill_require": {
+      "hard_skills": [
+        "文案写作",
+        "内容策划",
+        "内容选题",
+        "内容分发",
+        "数据分析"
+      ],
+      "soft_skills": [
+        "创意能力",
+        "文字敏感度",
+        "热点敏感度",
+        "执行力",
+        "创新能力",
+        "抗压能力",
+        "学习能力"
+      ]
+    },
+    "education_require": [
+      "大专及以上"
+    ],
+    "certificate_require": [
+      "内容营销师认证",
+      "新媒体运营师认证"
+    ],
+    "experience_require": "1年以上",
+    "job_responsibility": [
+      "负责产品内容体系的搭建与规划，制定内容运营策略",
+      "完成内容选题、策划、撰写与编辑，产出优质内容",
+      "负责内容的分发与推广，提升内容曝光与传播效果",
+      "跟踪内容数据，优化内容方向与运营策略"
+    ],
+    "core_competency": [
+      "文案写作",
+      "内容策划",
+      "内容选题",
+      "内容分发",
+      "数据分析",
+      "创意能力",
+      "文字敏感度",
+      "热点敏感度",
+      "执行力",
+      "创新能力"
+    ],
+    "salary_range": "面议",
+    "industry": [
+      "互联网"
+    ],
+    "related_jobs": []
+  },
+  {
+    "job_id": "job_020",
+    "job_name": "活动运营",
+    "job_category": "运营",
+    "city": [
+      "北京",
+      "上海",
+      "深圳",
+      "广州",
+      "杭州",
+      "成都"
+    ],
+    "skill_require": {
+      "hard_skills": [
+        "活动全案策划",
+        "活动流程设计",
+        "活动落地执行",
+        "数据分析"
+      ],
+      "soft_skills": [
+        "项目管理能力",
+        "创意能力",
+        "执行力",
+        "抗压能力",
+        "创新能力",
+        "学习能力"
+      ]
+    },
+    "education_require": [
+      "大专及以上"
+    ],
+    "certificate_require": [
+      "活动策划师认证",
+      "项目管理认证"
+    ],
+    "experience_require": "1年以上",
+    "job_responsibility": [
+      "负责公司线上/线下活动的全案策划与落地执行",
+      "设计活动规则、流程与玩法，达成活动目标",
+      "协调设计、研发、市场等团队，保障活动顺利上线",
+      "跟踪活动数据，复盘活动效果，优化活动方案"
+    ],
+    "core_competency": [
+      "活动全案策划",
+      "活动流程设计",
+      "活动落地执行",
+      "数据分析",
+      "项目管理能力",
+      "创意能力",
+      "执行力",
+      "抗压能力",
+      "创新能力",
+      "学习能力"
+    ],
+    "salary_range": "面议",
+    "industry": [
+      "互联网"
+    ],
+    "related_jobs": []
+  },
+  {
+    "job_id": "job_021",
+    "job_name": "电商运营",
+    "job_category": "运营",
+    "city": [
+      "北京",
+      "上海",
+      "深圳",
+      "广州",
+      "杭州",
+      "义乌"
+    ],
+    "skill_require": {
+      "hard_skills": [
+        "淘宝/京东/拼多多运营",
+        "直通车推广",
+        "标题优化",
+        "详情页策划",
+        "数据分析"
+      ],
+      "soft_skills": [
+        "数据敏感度",
+        "执行力",
+        "抗压能力",
+        "市场洞察能力",
+        "创新能力",
+        "学习能力"
+      ]
+    },
+    "education_require": [
+      "大专及以上"
+    ],
+    "certificate_require": [
+      "电子商务师认证",
+      "淘宝运营认证"
+    ],
+    "experience_require": "1年以上",
+    "job_responsibility": [
+      "负责电商平台店铺的整体运营，达成销售目标",
+      "优化商品标题、详情页，提升商品搜索排名与转化率",
+      "策划店铺促销活动，负责直通车、引力魔方等推广投放",
+      "跟踪店铺运营数据，优化运营策略与商品结构"
+    ],
+    "core_competency": [
+      "淘宝/京东/拼多多运营",
+      "直通车推广",
+      "标题优化",
+      "详情页策划",
+      "数据分析",
+      "数据敏感度",
+      "执行力",
+      "抗压能力",
+      "市场洞察能力",
+      "创新能力"
+    ],
+    "salary_range": "面议",
+    "industry": [
+      "互联网"
+    ],
+    "related_jobs": []
+  },
+  {
+    "job_id": "job_022",
+    "job_name": "Python开发工程师",
+    "job_category": "技术",
+    "city": [
+      "北京",
+      "上海",
+      "深圳",
+      "杭州",
+      "广州",
+      "成都"
+    ],
+    "skill_require": {
+      "hard_skills": [
+        "Python",
+        "Django",
+        "Flask",
+        "MySQL",
+        "Redis",
+        "爬虫开发",
+        "数据分析"
+      ],
+      "soft_skills": [
+        "逻辑思维",
+        "团队协作",
+        "问题解决能力",
+        "代码规范意识",
+        "创新能力",
+        "抗压能力",
+        "学习能力"
+      ]
+    },
+    "education_require": [
+      "本科及以上"
+    ],
+    "certificate_require": [
+      "Python认证",
+      "AWS认证开发者"
+    ],
+    "experience_require": "2年以上",
+    "job_responsibility": [
+      "负责Python后端服务的设计、开发与迭代",
+      "负责数据爬虫、数据处理相关工具的开发",
+      "配合算法团队，完成AI模型的工程化落地",
+      "优化代码性能，保障服务的稳定运行"
+    ],
+    "core_competency": [
+      "Python",
+      "Django",
+      "Flask",
+      "MySQL",
+      "Redis",
+      "爬虫开发",
+      "数据分析",
+      "逻辑思维",
+      "团队协作",
+      "问题解决能力"
+    ],
+    "salary_range": "面议",
+    "industry": [
+      "互联网"
+    ],
+    "related_jobs": []
+  },
+  {
+    "job_id": "job_023",
+    "job_name": "大数据开发工程师",
+    "job_category": "技术",
+    "city": [
+      "北京",
+      "上海",
+      "深圳",
+      "杭州",
+      "广州",
+      "成都"
+    ],
+    "skill_require": {
+      "hard_skills": [
+        "Hadoop",
+        "Spark",
+        "Flink",
+        "Hive",
+        "SQL",
+        "Python",
+        "数据仓库搭建"
+      ],
+      "soft_skills": [
+        "逻辑思维",
+        "团队协作",
+        "问题排查能力",
+        "数据敏感度",
+        "创新能力",
+        "抗压能力",
+        "学习能力"
+      ]
+    },
+    "education_require": [
+      "本科及以上"
+    ],
+    "certificate_require": [
+      "Hadoop开发者认证",
+      "AWS大数据认证"
+    ],
+    "experience_require": "3年以上",
+    "job_responsibility": [
+      "负责大数据平台的设计、开发与维护",
+      "搭建企业级数据仓库，设计数据模型与数据流程",
+      "开发离线/实时数据处理任务，保障数据质量与稳定性",
+      "配合数据分析师、业务团队，提供数据支撑"
+    ],
+    "core_competency": [
+      "Hadoop",
+      "Spark",
+      "Flink",
+      "Hive",
+      "SQL",
+      "Python",
+      "数据仓库搭建",
+      "逻辑思维",
+      "团队协作",
+      "问题排查能力"
+    ],
+    "salary_range": "面议",
+    "industry": [
+      "互联网"
+    ],
+    "related_jobs": []
+  },
+  {
+    "job_id": "job_024",
+    "job_name": "数据仓库工程师",
+    "job_category": "技术",
+    "city": [
+      "北京",
+      "上海",
+      "深圳",
+      "杭州",
+      "广州",
+      "成都"
+    ],
+    "skill_require": {
+      "hard_skills": [
+        "Hive",
+        "Spark",
+        "Flink",
+        "SQL",
+        "数据建模",
+        "ETL开发",
+        "维度建模"
+      ],
+      "soft_skills": [
+        "逻辑思维",
+        "业务理解能力",
+        "数据敏感度",
+        "团队协作",
+        "创新能力",
+        "抗压能力",
+        "学习能力"
+      ]
+    },
+    "education_require": [
+      "本科及以上"
+    ],
+    "certificate_require": [
+      "相关职业资格证书"
+    ],
+    "experience_require": "2年以上",
+    "job_responsibility": [
+      "负责企业数据仓库的设计、搭建与维护",
+      "设计数据模型，开发ETL流程，保障数据质量",
+      "搭建数据指标体系，为业务决策提供数据支撑",
+      "优化数据仓库性能，提升数据处理效率"
+    ],
+    "core_competency": [
+      "Hive",
+      "Spark",
+      "Flink",
+      "SQL",
+      "数据建模",
+      "ETL开发",
+      "维度建模",
+      "逻辑思维",
+      "业务理解能力",
+      "数据敏感度"
+    ],
+    "salary_range": "面议",
+    "industry": [
+      "互联网"
+    ],
+    "related_jobs": []
+  },
+  {
+    "job_id": "job_025",
+    "job_name": "自动化测试工程师",
+    "job_category": "技术",
+    "city": [
+      "北京",
+      "上海",
+      "深圳",
+      "杭州",
+      "广州",
+      "成都"
+    ],
+    "skill_require": {
+      "hard_skills": [
+        "Python/Java",
+        "Selenium",
+        "Appium",
+        "接口自动化",
+        "UI自动化",
+        "Postman",
+        "Jmeter"
+      ],
+      "soft_skills": [
+        "细心严谨",
+        "逻辑思维",
+        "问题排查能力",
+        "团队协作",
+        "创新能力",
+        "抗压能力",
+        "学习能力"
+      ]
+    },
+    "education_require": [
+      "本科及以上"
+    ],
+    "certificate_require": [
+      "ISTQB高级测试工程师认证",
+      "自动化测试认证"
+    ],
+    "experience_require": "2年以上",
+    "job_responsibility": [
+      "负责产品自动化测试框架的设计、搭建与维护",
+      "开发接口自动化、UI自动化测试脚本，提升测试效率",
+      "执行自动化测试，定位并跟踪bug，保障产品质量",
+      "优化测试流程，推动测试左移，提升研发效率"
+    ],
+    "core_competency": [
+      "Python/Java",
+      "Selenium",
+      "Appium",
+      "接口自动化",
+      "UI自动化",
+      "Postman",
+      "Jmeter",
+      "细心严谨",
+      "逻辑思维",
+      "问题排查能力"
+    ],
+    "salary_range": "面议",
+    "industry": [
+      "互联网"
+    ],
+    "related_jobs": []
+  },
+  {
+    "job_id": "job_026",
+    "job_name": "性能测试工程师",
+    "job_category": "技术",
+    "city": [
+      "北京",
+      "上海",
+      "深圳",
+      "杭州",
+      "广州",
+      "成都"
+    ],
+    "skill_require": {
+      "hard_skills": [
+        "Jmeter",
+        "LoadRunner",
+        "性能压测",
+        "瓶颈分析",
+        "SQL优化",
+        "Linux",
+        "中间件调优"
+      ],
+      "soft_skills": [
+        "逻辑思维",
+        "问题排查能力",
+        "细心严谨",
+        "团队协作",
+        "创新能力",
+        "抗压能力",
+        "学习能力"
+      ]
+    },
+    "education_require": [
+      "本科及以上"
+    ],
+    "certificate_require": [
+      "性能测试专家认证",
+      "LoadRunner认证"
+    ],
+    "experience_require": "3年以上",
+    "job_responsibility": [
+      "负责产品的性能测试方案设计与落地执行",
+      "开展压力测试、负载测试、稳定性测试，定位系统性能瓶颈",
+      "输出性能测试报告，提出性能优化方案",
+      "配合研发团队，推动性能优化落地，保障系统高可用"
+    ],
+    "core_competency": [
+      "Jmeter",
+      "LoadRunner",
+      "性能压测",
+      "瓶颈分析",
+      "SQL优化",
+      "Linux",
+      "中间件调优",
+      "逻辑思维",
+      "问题排查能力",
+      "细心严谨"
+    ],
+    "salary_range": "面议",
+    "industry": [
+      "互联网"
+    ],
+    "related_jobs": []
+  },
+  {
+    "job_id": "job_027",
+    "job_name": "大模型训练工程师",
+    "job_category": "技术",
+    "city": [
+      "北京",
+      "上海",
+      "深圳",
+      "杭州",
+      "广州"
+    ],
+    "skill_require": {
+      "hard_skills": [
+        "Python",
+        "PyTorch",
+        "Transformer",
+        "LLM",
+        "预训练",
+        "微调",
+        "Prompt工程"
+      ],
+      "soft_skills": [
+        "逻辑思维",
+        "学习能力",
+        "问题解决能力",
+        "科研能力",
+        "创新能力",
+        "抗压能力"
+      ]
+    },
+    "education_require": [
+      "本科及以上",
+      "硕士优先"
+    ],
+    "certificate_require": [
+      "PyTorch开发者认证",
+      "AWS机器学习认证"
+    ],
+    "experience_require": "2年以上",
+    "job_responsibility": [
+      "负责大语言模型的预训练、微调与优化",
+      "设计训练数据清洗、标注与增强方案，保障数据质量",
+      "优化模型训练效率，降低训练成本，提升模型效果",
+      "配合产品团队，完成大模型应用场景的落地"
+    ],
+    "core_competency": [
+      "Python",
+      "PyTorch",
+      "Transformer",
+      "LLM",
+      "预训练",
+      "微调",
+      "Prompt工程",
+      "逻辑思维",
+      "学习能力",
+      "问题解决能力"
+    ],
+    "salary_range": "面议",
+    "industry": [
+      "互联网"
+    ],
+    "related_jobs": []
+  },
+  {
+    "job_id": "job_028",
+    "job_name": "算法工程师",
+    "job_category": "技术",
+    "city": [
+      "北京",
+      "上海",
+      "深圳",
+      "杭州",
+      "广州",
+      "成都"
+    ],
+    "skill_require": {
+      "hard_skills": [
+        "Python",
+        "机器学习",
+        "深度学习",
+        "PyTorch/TensorFlow",
+        "SQL",
+        "数据建模"
+      ],
+      "soft_skills": [
+        "逻辑思维",
+        "数学能力",
+        "科研能力",
+        "问题解决能力",
+        "创新能力",
+        "抗压能力",
+        "学习能力"
+      ]
+    },
+    "education_require": [
+      "本科及以上",
+      "硕士优先"
+    ],
+    "certificate_require": [
+      "TensorFlow开发者证书",
+      "AWS机器学习认证"
+    ],
+    "experience_require": "3年以上",
+    "job_responsibility": [
+      "负责业务相关的算法模型设计、开发与优化",
+      "针对业务场景，设计算法解决方案，落地算法模型",
+      "跟踪算法效果，持续优化模型性能与准确率",
+      "配合研发团队，完成算法工程化落地"
+    ],
+    "core_competency": [
+      "Python",
+      "机器学习",
+      "深度学习",
+      "PyTorch/TensorFlow",
+      "SQL",
+      "数据建模",
+      "逻辑思维",
+      "数学能力",
+      "科研能力",
+      "问题解决能力"
+    ],
+    "salary_range": "面议",
+    "industry": [
+      "互联网"
+    ],
+    "related_jobs": []
+  },
+  {
+    "job_id": "job_029",
+    "job_name": "前端架构师",
+    "job_category": "技术",
+    "city": [
+      "北京",
+      "上海",
+      "深圳",
+      "杭州",
+      "广州"
+    ],
+    "skill_require": {
+      "hard_skills": [
+        "JavaScript",
+        "Vue/React",
+        "前端工程化",
+        "微前端",
+        "性能优化",
+        "Node.js",
+        "架构设计"
+      ],
+      "soft_skills": [
+        "技术管理能力",
+        "团队指导能力",
+        "架构设计能力",
+        "技术攻坚能力",
+        "创新能力",
+        "抗压能力",
+        "学习能力"
+      ]
+    },
+    "education_require": [
+      "本科及以上"
+    ],
+    "certificate_require": [
+      "AWS解决方案架构师",
+      "前端架构师认证"
+    ],
+    "experience_require": "5年以上",
+    "job_responsibility": [
+      "负责前端整体架构设计与技术选型",
+      "搭建前端工程化体系，制定前端开发规范",
+      "解决前端核心技术难题，优化前端性能与体验",
+      "指导前端团队，提升团队技术能力"
+    ],
+    "core_competency": [
+      "JavaScript",
+      "Vue/React",
+      "前端工程化",
+      "微前端",
+      "性能优化",
+      "Node.js",
+      "架构设计",
+      "技术管理能力",
+      "团队指导能力",
+      "架构设计能力"
+    ],
+    "salary_range": "面议",
+    "industry": [
+      "互联网"
+    ],
+    "related_jobs": []
+  },
+  {
+    "job_id": "job_030",
+    "job_name": "后端架构师",
+    "job_category": "技术",
+    "city": [
+      "北京",
+      "上海",
+      "深圳",
+      "杭州",
+      "广州"
+    ],
+    "skill_require": {
+      "hard_skills": [
+        "Java/Go",
+        "分布式系统架构",
+        "高并发高可用设计",
+        "中间件调优",
+        "数据库架构",
+        "微服务设计"
+      ],
+      "soft_skills": [
+        "技术管理能力",
+        "架构设计能力",
+        "技术攻坚能力",
+        "团队指导能力",
+        "创新能力",
+        "抗压能力",
+        "学习能力"
+      ]
+    },
+    "education_require": [
+      "本科及以上"
+    ],
+    "certificate_require": [
+      "TOGAF架构师认证",
+      "AWS解决方案架构师"
+    ],
+    "experience_require": "6年以上",
+    "job_responsibility": [
+      "负责后端系统整体架构设计与技术选型",
+      "设计分布式、高并发、高可用的系统架构方案",
+      "解决核心技术难题，推动技术架构升级",
+      "制定后端开发规范，指导研发团队，提升团队技术能力"
+    ],
+    "core_competency": [
+      "Java/Go",
+      "分布式系统架构",
+      "高并发高可用设计",
+      "中间件调优",
+      "数据库架构",
+      "微服务设计",
+      "技术管理能力",
+      "架构设计能力",
+      "技术攻坚能力",
+      "团队指导能力"
+    ],
+    "salary_range": "面议",
+    "industry": [
+      "互联网"
+    ],
+    "related_jobs": []
+  },
+  {
+    "job_id": "job_031",
+    "job_name": "Go开发工程师",
+    "job_category": "技术",
+    "city": [
+      "北京",
+      "上海",
+      "深圳",
+      "杭州",
+      "广州",
+      "成都"
+    ],
+    "skill_require": {
+      "hard_skills": [
+        "Go",
+        "Gin",
+        "Beego",
+        "MySQL",
+        "Redis",
+        "MQ",
+        "分布式系统开发"
+      ],
+      "soft_skills": [
+        "逻辑思维",
+        "团队协作",
+        "问题解决能力",
+        "代码规范意识",
+        "创新能力",
+        "抗压能力",
+        "学习能力"
+      ]
+    },
+    "education_require": [
+      "本科及以上"
+    ],
+    "certificate_require": [
+      "Go语言认证",
+      "AWS认证开发者"
+    ],
+    "experience_require": "2年以上",
+    "job_responsibility": [
+      "负责Go后端服务的设计、开发与迭代",
+      "参与分布式系统架构设计，保障服务高可用、高性能",
+      "优化代码性能，解决线上技术问题",
+      "与产品、测试团队配合，完成需求落地"
+    ],
+    "core_competency": [
+      "Go",
+      "Gin",
+      "Beego",
+      "MySQL",
+      "Redis",
+      "MQ",
+      "分布式系统开发",
+      "逻辑思维",
+      "团队协作",
+      "问题解决能力"
+    ],
+    "salary_range": "面议",
+    "industry": [
+      "互联网"
+    ],
+    "related_jobs": []
+  },
+  {
+    "job_id": "job_032",
+    "job_name": "运维工程师",
+    "job_category": "技术",
+    "city": [
+      "北京",
+      "上海",
+      "深圳",
+      "杭州",
+      "广州",
+      "成都"
+    ],
+    "skill_require": {
+      "hard_skills": [
+        "Linux",
+        "Shell",
+        "Docker",
+        "K8s",
+        "监控系统",
+        "网络配置",
+        "故障排查"
+      ],
+      "soft_skills": [
+        "问题排查能力",
+        "细心严谨",
+        "抗压能力",
+        "团队协作",
+        "创新能力",
+        "学习能力"
+      ]
+    },
+    "education_require": [
+      "本科及以上"
+    ],
+    "certificate_require": [
+      "Linux认证",
+      "AWS认证运维工程师"
+    ],
+    "experience_require": "2年以上",
+    "job_responsibility": [
+      "负责服务器、系统的日常运维与监控",
+      "搭建与维护Docker、K8s容器化平台",
+      "处理线上故障，保障系统稳定运行",
+      "优化运维流程，实现运维自动化"
+    ],
+    "core_competency": [
+      "Linux",
+      "Shell",
+      "Docker",
+      "K8s",
+      "监控系统",
+      "网络配置",
+      "故障排查",
+      "问题排查能力",
+      "细心严谨",
+      "抗压能力"
+    ],
+    "salary_range": "面议",
+    "industry": [
+      "互联网"
+    ],
+    "related_jobs": []
+  },
+  {
+    "job_id": "job_033",
+    "job_name": "DevOps工程师",
+    "job_category": "技术",
+    "city": [
+      "北京",
+      "上海",
+      "深圳",
+      "杭州",
+      "广州",
+      "成都"
+    ],
+    "skill_require": {
+      "hard_skills": [
+        "Linux",
+        "Docker",
+        "K8s",
+        "Jenkins",
+        "CI/CD",
+        "Python/Shell",
+        "监控告警系统"
+      ],
+      "soft_skills": [
+        "逻辑思维",
+        "问题解决能力",
+        "跨团队沟通",
+        "执行力",
+        "创新能力",
+        "抗压能力",
+        "学习能力"
+      ]
+    },
+    "education_require": [
+      "本科及以上"
+    ],
+    "certificate_require": [
+      "AWS认证DevOps工程师",
+      "Docker认证"
+    ],
+    "experience_require": "3年以上",
+    "job_responsibility": [
+      "负责DevOps平台的设计、搭建与维护",
+      "搭建CI/CD流水线，实现代码自动化构建、测试、部署",
+      "搭建监控告警体系，保障系统稳定运行",
+      "推动研发流程优化，提升研发效率与交付质量"
+    ],
+    "core_competency": [
+      "Linux",
+      "Docker",
+      "K8s",
+      "Jenkins",
+      "CI/CD",
+      "Python/Shell",
+      "监控告警系统",
+      "逻辑思维",
+      "问题解决能力",
+      "跨团队沟通"
+    ],
+    "salary_range": "面议",
+    "industry": [
+      "互联网"
+    ],
+    "related_jobs": []
+  },
+  {
+    "job_id": "job_034",
+    "job_name": "网络安全工程师",
+    "job_category": "技术",
+    "city": [
+      "北京",
+      "上海",
+      "深圳",
+      "杭州",
+      "广州",
+      "成都"
+    ],
+    "skill_require": {
+      "hard_skills": [
+        "渗透测试",
+        "漏洞挖掘",
+        "等保合规",
+        "防火墙配置",
+        "WAF",
+        "应急响应",
+        "Python/Shell"
+      ],
+      "soft_skills": [
+        "细心严谨",
+        "逻辑思维",
+        "抗压能力",
+        "保密意识",
+        "创新能力",
+        "学习能力"
+      ]
+    },
+    "education_require": [
+      "本科及以上"
+    ],
+    "certificate_require": [
+      "CISP",
+      "CISSP",
+      "CEH"
+    ],
+    "experience_require": "2年以上",
+    "job_responsibility": [
+      "负责公司网络与系统的安全防护，搭建安全防护体系",
+      "开展渗透测试、漏洞扫描，挖掘并修复安全漏洞",
+      "处理安全应急事件，保障系统与数据安全",
+      "落实等保合规要求，完成安全合规建设"
+    ],
+    "core_competency": [
+      "渗透测试",
+      "漏洞挖掘",
+      "等保合规",
+      "防火墙配置",
+      "WAF",
+      "应急响应",
+      "Python/Shell",
+      "细心严谨",
+      "逻辑思维",
+      "抗压能力"
+    ],
+    "salary_range": "面议",
+    "industry": [
+      "互联网"
+    ],
+    "related_jobs": []
+  },
+  {
+    "job_id": "job_035",
+    "job_name": "嵌入式开发工程师",
+    "job_category": "技术",
+    "city": [
+      "北京",
+      "上海",
+      "深圳",
+      "广州",
+      "杭州",
+      "苏州",
+      "成都"
+    ],
+    "skill_require": {
+      "hard_skills": [
+        "C/C++",
+        "Linux",
+        "单片机",
+        "ARM",
+        "驱动开发",
+        "硬件原理图",
+        "串口通信"
+      ],
+      "soft_skills": [
+        "逻辑思维",
+        "问题排查能力",
+        "细心严谨",
+        "团队协作",
+        "创新能力",
+        "抗压能力",
+        "学习能力"
+      ]
+    },
+    "education_require": [
+      "本科及以上"
+    ],
+    "certificate_require": [
+      "ARM认证工程师",
+      "嵌入式系统设计师"
+    ],
+    "experience_require": "2年以上",
+    "job_responsibility": [
+      "负责嵌入式产品的软件设计、开发与调试",
+      "开发嵌入式驱动程序、应用程序，实现产品功能",
+      "配合硬件团队，完成硬件调试与功能验证",
+      "优化代码性能，保障嵌入式系统稳定运行"
+    ],
+    "core_competency": [
+      "C/C++",
+      "Linux",
+      "单片机",
+      "ARM",
+      "驱动开发",
+      "硬件原理图",
+      "串口通信",
+      "逻辑思维",
+      "问题排查能力",
+      "细心严谨"
+    ],
+    "salary_range": "面议",
+    "industry": [
+      "互联网"
+    ],
+    "related_jobs": []
+  },
+  {
+    "job_id": "job_036",
+    "job_name": "PHP开发工程师",
+    "job_category": "技术",
+    "city": [
+      "北京",
+      "上海",
+      "深圳",
+      "广州",
+      "杭州",
+      "成都"
+    ],
+    "skill_require": {
+      "hard_skills": [
+        "PHP",
+        "Laravel",
+        "ThinkPHP",
+        "MySQL",
+        "Redis",
+        "HTML/CSS/JavaScript",
+        "接口开发"
+      ],
+      "soft_skills": [
+        "逻辑思维",
+        "团队协作",
+        "问题解决能力",
+        "代码规范意识",
+        "创新能力",
+        "抗压能力",
+        "学习能力"
+      ]
+    },
+    "education_require": [
+      "大专及以上"
+    ],
+    "certificate_require": [
+      "PHP认证工程师",
+      "Web开发认证"
+    ],
+    "experience_require": "2年以上",
+    "job_responsibility": [
+      "负责PHP后端服务的设计、开发与迭代",
+      "负责网站、小程序、管理后台的后端开发",
+      "优化数据库性能，保障服务稳定运行",
+      "与前端、产品团队配合，完成需求落地"
+    ],
+    "core_competency": [
+      "PHP",
+      "Laravel",
+      "ThinkPHP",
+      "MySQL",
+      "Redis",
+      "HTML/CSS/JavaScript",
+      "接口开发",
+      "逻辑思维",
+      "团队协作",
+      "问题解决能力"
+    ],
+    "salary_range": "面议",
+    "industry": [
+      "互联网"
+    ],
+    "related_jobs": []
+  },
+  {
+    "job_id": "job_037",
+    "job_name": "动效设计师",
+    "job_category": "设计",
+    "city": [
+      "北京",
+      "上海",
+      "深圳",
+      "广州",
+      "杭州",
+      "成都"
+    ],
+    "skill_require": {
+      "hard_skills": [
+        "AE",
+        "Figma",
+        "Principle",
+        "C4D",
+        "动效设计",
+        "交互设计"
+      ],
+      "soft_skills": [
+        "审美能力",
+        "创意能力",
+        "节奏感",
+        "沟通协作",
+        "创新能力",
+        "抗压能力",
+        "学习能力"
+      ]
+    },
+    "education_require": [
+      "本科及以上"
+    ],
+    "certificate_require": [
+      "Adobe认证AfterEffects专家",
+      "动效设计认证"
+    ],
+    "experience_require": "2年以上",
+    "job_responsibility": [
+      "负责产品的UI动效、交互动效设计，提升产品体验",
+      "设计品牌宣传相关的动画、短视频动效",
+      "制定动效设计规范，保障动效的一致性",
+      "与UI设计师、前端开发配合，完成动效落地"
+    ],
+    "core_competency": [
+      "AE",
+      "Figma",
+      "Principle",
+      "C4D",
+      "动效设计",
+      "交互设计",
+      "审美能力",
+      "创意能力",
+      "节奏感",
+      "沟通协作"
+    ],
+    "salary_range": "面议",
+    "industry": [
+      "互联网"
+    ],
+    "related_jobs": []
+  },
+  {
+    "job_id": "job_038",
+    "job_name": "平面设计师",
+    "job_category": "设计",
+    "city": [
+      "北京",
+      "上海",
+      "深圳",
+      "广州",
+      "杭州",
+      "成都",
+      "全国"
+    ],
+    "skill_require": {
+      "hard_skills": [
+        "PS",
+        "AI",
+        "CDR",
+        "平面设计",
+        "版式设计",
+        "印刷工艺"
+      ],
+      "soft_skills": [
+        "审美能力",
+        "创意能力",
+        "沟通协作",
+        "执行力",
+        "创新能力",
+        "抗压能力",
+        "学习能力"
+      ]
+    },
+    "education_require": [
+      "大专及以上"
+    ],
+    "certificate_require": [
+      "Adobe认证专家",
+      "平面设计师认证"
+    ],
+    "experience_require": "1年以上",
+    "job_responsibility": [
+      "负责品牌相关的海报、画册、宣传单、包装等平面设计",
+      "配合市场团队，完成推广物料的设计与落地",
+      "维护品牌视觉规范，保障设计的一致性",
+      "跟进设计物料的印刷、制作，保障落地效果"
+    ],
+    "core_competency": [
+      "PS",
+      "AI",
+      "CDR",
+      "平面设计",
+      "版式设计",
+      "印刷工艺",
+      "审美能力",
+      "创意能力",
+      "沟通协作",
+      "执行力"
+    ],
+    "salary_range": "面议",
+    "industry": [
+      "互联网"
+    ],
+    "related_jobs": []
+  },
+  {
+    "job_id": "job_039",
+    "job_name": "用户增长运营",
+    "job_category": "运营",
+    "city": [
+      "北京",
+      "上海",
+      "深圳",
+      "广州",
+      "杭州",
+      "成都"
+    ],
+    "skill_require": {
+      "hard_skills": [
+        "用户增长模型",
+        "裂变活动策划",
+        "渠道投放",
+        "A/B测试",
+        "数据分析"
+      ],
+      "soft_skills": [
+        "数据敏感度",
+        "创新思维",
+        "执行力",
+        "抗压能力",
+        "创新能力",
+        "学习能力"
+      ]
+    },
+    "education_require": [
+      "本科及以上"
+    ],
+    "certificate_require": [
+      "用户增长认证",
+      "数据分析认证"
+    ],
+    "experience_require": "2年以上",
+    "job_responsibility": [
+      "负责产品用户增长策略的制定与落地，达成用户增长目标",
+      "策划用户裂变活动，设计增长玩法，提升用户拉新效果",
+      "拓展投放渠道，优化投放策略，降低获客成本",
+      "开展A/B测试，跟踪增长数据，持续优化增长策略"
+    ],
+    "core_competency": [
+      "用户增长模型",
+      "裂变活动策划",
+      "渠道投放",
+      "A/B测试",
+      "数据分析",
+      "数据敏感度",
+      "创新思维",
+      "执行力",
+      "抗压能力",
+      "创新能力"
+    ],
+    "salary_range": "面议",
+    "industry": [
+      "互联网"
+    ],
+    "related_jobs": []
+  },
+  {
+    "job_id": "job_040",
+    "job_name": "社群运营",
+    "job_category": "运营",
+    "city": [
+      "北京",
+      "上海",
+      "深圳",
+      "广州",
+      "杭州",
+      "成都",
+      "全国远程"
+    ],
+    "skill_require": {
+      "hard_skills": [
+        "社群搭建",
+        "用户分层",
+        "活动策划",
+        "内容输出",
+        "数据分析"
+      ],
+      "soft_skills": [
+        "沟通能力",
+        "亲和力",
+        "执行力",
+        "用户思维",
+        "创新能力",
+        "抗压能力",
+        "学习能力"
+      ]
+    },
+    "education_require": [
+      "大专及以上"
+    ],
+    "certificate_require": [
+      "社群运营师认证",
+      "新媒体运营师认证"
+    ],
+    "experience_require": "1年以上",
+    "job_responsibility": [
+      "负责用户社群的搭建、日常运营与维护",
+      "输出社群内容，策划社群活动，提升社群活跃与粘性",
+      "挖掘用户需求，转化社群用户，达成转化目标",
+      "跟踪社群运营数据，优化社群运营策略"
+    ],
+    "core_competency": [
+      "社群搭建",
+      "用户分层",
+      "活动策划",
+      "内容输出",
+      "数据分析",
+      "沟通能力",
+      "亲和力",
+      "执行力",
+      "用户思维",
+      "创新能力"
+    ],
+    "salary_range": "面议",
+    "industry": [
+      "互联网"
+    ],
+    "related_jobs": []
+  },
+  {
+    "job_id": "job_041",
+    "job_name": "B端产品经理",
+    "job_category": "产品",
+    "city": [
+      "北京",
+      "上海",
+      "深圳",
+      "杭州",
+      "广州",
+      "成都"
+    ],
+    "skill_require": {
+      "hard_skills": [
+        "B端产品设计",
+        "业务流程梳理",
+        "PRD文档编写",
+        "Axure",
+        "企业需求拆解"
+      ],
+      "soft_skills": [
+        "业务理解能力",
+        "逻辑思维",
+        "跨团队沟通",
+        "项目管理能力",
+        "创新能力",
+        "抗压能力",
+        "学习能力"
+      ]
+    },
+    "education_require": [
+      "本科及以上"
+    ],
+    "certificate_require": [
+      "SaaS产品认证",
+      "企业级产品设计认证"
+    ],
+    "experience_require": "3年以上",
+    "job_responsibility": [
+      "负责ToB产品的需求调研、规划与设计",
+      "梳理企业业务流程，拆解客户需求，输出产品方案",
+      "协调研发、实施团队，推动产品落地与项目交付",
+      "跟踪产品使用情况，持续优化产品体验与功能"
+    ],
+    "core_competency": [
+      "B端产品设计",
+      "业务流程梳理",
+      "PRD文档编写",
+      "Axure",
+      "企业需求拆解",
+      "业务理解能力",
+      "逻辑思维",
+      "跨团队沟通",
+      "项目管理能力",
+      "创新能力"
+    ],
+    "salary_range": "面议",
+    "industry": [
+      "互联网"
+    ],
+    "related_jobs": []
+  },
+  {
+    "job_id": "job_042",
+    "job_name": "招聘专员",
+    "job_category": "职能",
+    "city": [
+      "北京",
+      "上海",
+      "深圳",
+      "广州",
+      "杭州",
+      "成都"
+    ],
+    "skill_require": {
+      "hard_skills": [
+        "招聘全流程管理",
+        "招聘渠道拓展",
+        "简历筛选",
+        "面试安排",
+        "办公软件"
+      ],
+      "soft_skills": [
+        "沟通能力",
+        "亲和力",
+        "人才识别能力",
+        "执行力",
+        "创新能力",
+        "抗压能力",
+        "学习能力"
+      ]
+    },
+    "education_require": [
+      "大专及以上"
+    ],
+    "certificate_require": [
+      "企业人力资源管理师"
+    ],
+    "experience_require": "1年以上",
+    "job_responsibility": [
+      "负责公司岗位的招聘全流程工作，完成招聘目标",
+      "拓展与维护招聘渠道，提升招聘效率",
+      "筛选简历，安排面试，跟进offer发放与入职",
+      "维护人才库，完成招聘数据统计与分析"
+    ],
+    "core_competency": [
+      "招聘全流程管理",
+      "招聘渠道拓展",
+      "简历筛选",
+      "面试安排",
+      "办公软件",
+      "沟通能力",
+      "亲和力",
+      "人才识别能力",
+      "执行力",
+      "创新能力"
+    ],
+    "salary_range": "面议",
+    "industry": [
+      "互联网"
+    ],
+    "related_jobs": []
+  },
+  {
+    "job_id": "job_043",
+    "job_name": "培训专员",
+    "job_category": "职能",
+    "city": [
+      "北京",
+      "上海",
+      "深圳",
+      "广州",
+      "杭州",
+      "成都"
+    ],
+    "skill_require": {
+      "hard_skills": [
+        "培训体系搭建",
+        "课程开发",
+        "培训组织实施",
+        "PPT制作",
+        "办公软件"
+      ],
+      "soft_skills": [
+        "沟通能力",
+        "表达能力",
+        "亲和力",
+        "项目管理能力",
+        "创新能力",
+        "抗压能力",
+        "学习能力"
+      ]
+    },
+    "education_require": [
+      "本科及以上"
+    ],
+    "certificate_require": [
+      "企业培训师"
+    ],
+    "experience_require": "1年以上",
+    "job_responsibility": [
+      "负责公司培训体系的搭建与维护，制定培训计划",
+      "开发培训课程，制作培训课件，开展员工培训",
+      "组织实施新员工入职培训、岗位技能培训等项目",
+      "跟踪培训效果，完成培训数据统计与复盘优化"
+    ],
+    "core_competency": [
+      "培训体系搭建",
+      "课程开发",
+      "培训组织实施",
+      "PPT制作",
+      "办公软件",
+      "沟通能力",
+      "表达能力",
+      "亲和力",
+      "项目管理能力",
+      "创新能力"
+    ],
+    "salary_range": "面议",
+    "industry": [
+      "互联网"
+    ],
+    "related_jobs": []
+  },
+  {
+    "job_id": "job_044",
+    "job_name": "行政专员",
+    "job_category": "职能",
+    "city": [
+      "北京",
+      "上海",
+      "深圳",
+      "广州",
+      "杭州",
+      "成都"
+    ],
+    "skill_require": {
+      "hard_skills": [
+        "办公软件",
+        "会务组织",
+        "固定资产管理",
+        "采购管理",
+        "公文写作"
+      ],
+      "soft_skills": [
+        "沟通能力",
+        "执行力",
+        "细心严谨",
+        "服务意识",
+        "创新能力",
+        "抗压能力",
+        "学习能力"
+      ]
+    },
+    "education_require": [
+      "大专及以上"
+    ],
+    "certificate_require": [
+      "行政管理师认证"
+    ],
+    "experience_require": "1年以上",
+    "job_responsibility": [
+      "负责公司日常行政事务，保障办公环境正常运转",
+      "负责公司会务组织、接待、办公用品采购与管理",
+      "负责公司固定资产管理、办公环境维护",
+      "协助完成公司制度落地、企业文化活动组织"
+    ],
+    "core_competency": [
+      "办公软件",
+      "会务组织",
+      "固定资产管理",
+      "采购管理",
+      "公文写作",
+      "沟通能力",
+      "执行力",
+      "细心严谨",
+      "服务意识",
+      "创新能力"
+    ],
+    "salary_range": "面议",
+    "industry": [
+      "互联网"
+    ],
+    "related_jobs": []
+  },
+  {
+    "job_id": "job_045",
+    "job_name": "行政主管",
+    "job_category": "职能",
+    "city": [
+      "北京",
+      "上海",
+      "深圳",
+      "广州",
+      "杭州",
+      "成都"
+    ],
+    "skill_require": {
+      "hard_skills": [
+        "行政体系搭建",
+        "预算管理",
+        "会务统筹",
+        "供应商管理",
+        "团队管理"
+      ],
+      "soft_skills": [
+        "组织协调能力",
+        "管理能力",
+        "沟通能力",
+        "抗压能力",
+        "创新能力",
+        "学习能力"
+      ]
+    },
+    "education_require": [
+      "本科及以上"
+    ],
+    "certificate_require": [
+      "高级行政管理师认证"
+    ],
+    "experience_require": "3年以上",
+    "job_responsibility": [
+      "负责公司行政团队的管理，制定行政管理制度与流程",
+      "统筹公司行政预算，控制行政成本",
+      "负责公司大型会务、活动的统筹与落地",
+      "管理行政供应商，优化行政服务质量"
+    ],
+    "core_competency": [
+      "行政体系搭建",
+      "预算管理",
+      "会务统筹",
+      "供应商管理",
+      "团队管理",
+      "组织协调能力",
+      "管理能力",
+      "沟通能力",
+      "抗压能力",
+      "创新能力"
+    ],
+    "salary_range": "面议",
+    "industry": [
+      "互联网"
+    ],
+    "related_jobs": []
+  },
+  {
+    "job_id": "job_046",
+    "job_name": "渠道经理",
+    "job_category": "市场",
+    "city": [
+      "北京",
+      "上海",
+      "深圳",
+      "广州",
+      "杭州",
+      "全国"
+    ],
+    "skill_require": {
+      "hard_skills": [
+        "渠道拓展",
+        "渠道管理",
+        "商务谈判",
+        "销售方案设计",
+        "客户关系维护"
+      ],
+      "soft_skills": [
+        "目标感",
+        "抗压能力",
+        "沟通能力",
+        "市场洞察能力",
+        "创新能力",
+        "学习能力"
+      ]
+    },
+    "education_require": [
+      "大专及以上"
+    ],
+    "certificate_require": [
+      "渠道管理师认证",
+      "市场营销师认证"
+    ],
+    "experience_require": "2年以上",
+    "job_responsibility": [
+      "负责公司销售渠道的拓展、搭建与维护",
+      "开发渠道合作伙伴，建立长期合作关系",
+      "制定渠道政策，完成渠道销售目标",
+      "跟进渠道合作全流程，解决渠道合作问题"
+    ],
+    "core_competency": [
+      "渠道拓展",
+      "渠道管理",
+      "商务谈判",
+      "销售方案设计",
+      "客户关系维护",
+      "目标感",
+      "抗压能力",
+      "沟通能力",
+      "市场洞察能力",
+      "创新能力"
+    ],
+    "salary_range": "面议",
+    "industry": [
+      "互联网"
+    ],
+    "related_jobs": []
+  },
+  {
+    "job_id": "job_047",
+    "job_name": "大客户销售经理",
+    "job_category": "市场",
+    "city": [
+      "北京",
+      "上海",
+      "深圳",
+      "广州",
+      "杭州",
+      "全国"
+    ],
+    "skill_require": {
+      "hard_skills": [
+        "大客户开发",
+        "商务谈判",
+        "解决方案设计",
+        "客户关系管理",
+        "回款跟进"
+      ],
+      "soft_skills": [
+        "目标感",
+        "抗压能力",
+        "沟通能力",
+        "资源整合能力",
+        "创新能力",
+        "学习能力"
+      ]
+    },
+    "education_require": [
+      "本科及以上"
+    ],
+    "certificate_require": [
+      "大客户销售认证",
+      "商务谈判师认证"
+    ],
+    "experience_require": "3年以上",
+    "job_responsibility": [
+      "负责公司大客户的开发与维护，完成销售业绩目标",
+      "挖掘大客户需求，设计定制化解决方案，推动项目落地",
+      "维护大客户长期合作关系，提升客户满意度与复购",
+      "跟进项目全流程，完成合同签订与回款"
+    ],
+    "core_competency": [
+      "大客户开发",
+      "商务谈判",
+      "解决方案设计",
+      "客户关系管理",
+      "回款跟进",
+      "目标感",
+      "抗压能力",
+      "沟通能力",
+      "资源整合能力",
+      "创新能力"
+    ],
+    "salary_range": "面议",
+    "industry": [
+      "互联网"
+    ],
+    "related_jobs": []
+  },
+  {
+    "job_id": "job_048",
+    "job_name": "市场推广专员",
+    "job_category": "市场",
+    "city": [
+      "北京",
+      "上海",
+      "深圳",
+      "广州",
+      "杭州",
+      "成都"
+    ],
+    "skill_require": {
+      "hard_skills": [
+        "市场推广方案策划",
+        "新媒体推广",
+        "渠道投放",
+        "活动执行",
+        "数据分析"
+      ],
+      "soft_skills": [
+        "创意能力",
+        "执行力",
+        "沟通能力",
+        "市场洞察能力",
+        "创新能力",
+        "抗压能力",
+        "学习能力"
+      ]
+    },
+    "education_require": [
+      "大专及以上"
+    ],
+    "certificate_require": [
+      "市场营销师认证",
+      "数字营销认证"
+    ],
+    "experience_require": "1年以上",
+    "job_responsibility": [
+      "负责公司市场推广方案的策划与落地执行",
+      "拓展推广渠道，负责线上线下推广投放",
+      "策划市场推广活动，提升品牌曝光与获客效果",
+      "跟踪推广数据，复盘推广效果，优化推广策略"
+    ],
+    "core_competency": [
+      "市场推广方案策划",
+      "新媒体推广",
+      "渠道投放",
+      "活动执行",
+      "数据分析",
+      "创意能力",
+      "执行力",
+      "沟通能力",
+      "市场洞察能力",
+      "创新能力"
+    ],
+    "salary_range": "面议",
+    "industry": [
+      "互联网"
+    ],
+    "related_jobs": []
+  },
+  {
+    "job_id": "job_049",
+    "job_name": "财务会计",
+    "job_category": "职能",
+    "city": [
+      "北京",
+      "上海",
+      "深圳",
+      "广州",
+      "杭州",
+      "成都"
+    ],
+    "skill_require": {
+      "hard_skills": [
+        "账务处理",
+        "财务报表编制",
+        "税务申报",
+        "用友/金蝶",
+        "Excel",
+        "成本核算"
+      ],
+      "soft_skills": [
+        "细心严谨",
+        "责任心",
+        "保密意识",
+        "原则性",
+        "创新能力",
+        "抗压能力",
+        "学习能力"
+      ]
+    },
+    "education_require": [
+      "本科及以上"
+    ],
+    "certificate_require": [
+      "初级会计职称",
+      "中级会计职称优先"
+    ],
+    "experience_require": "2年以上",
+    "job_responsibility": [
+      "负责公司日常账务处理，编制会计凭证",
+      "负责公司财务报表的编制与报送",
+      "负责公司税务申报、税务筹划相关工作",
+      "负责成本核算、往来账管理，保障财务数据准确"
+    ],
+    "core_competency": [
+      "账务处理",
+      "财务报表编制",
+      "税务申报",
+      "用友/金蝶",
+      "Excel",
+      "成本核算",
+      "细心严谨",
+      "责任心",
+      "保密意识",
+      "原则性"
+    ],
+    "salary_range": "面议",
+    "industry": [
+      "互联网"
+    ],
+    "related_jobs": []
+  },
+  {
+    "job_id": "job_050",
+    "job_name": "出纳",
+    "job_category": "职能",
+    "city": [
+      "北京",
+      "上海",
+      "深圳",
+      "广州",
+      "杭州",
+      "成都"
+    ],
+    "skill_require": {
+      "hard_skills": [
+        "现金管理",
+        "银行结算",
+        "日记账登记",
+        "办公软件",
+        "网银操作"
+      ],
+      "soft_skills": [
+        "细心严谨",
+        "责任心",
+        "保密意识",
+        "原则性",
+        "创新能力",
+        "抗压能力",
+        "学习能力"
+      ]
+    },
+    "education_require": [
+      "大专及以上"
+    ],
+    "certificate_require": [
+      "初级会计职称"
+    ],
+    "experience_require": "1年以上",
+    "job_responsibility": [
+      "负责公司现金、银行存款的日常管理与结算",
+      "登记现金日记账、银行存款日记账，做到账实相符",
+      "负责费用报销、工资发放、款项收付相关工作",
+      "保管库存现金、票据、印章，保障资金安全"
+    ],
+    "core_competency": [
+      "现金管理",
+      "银行结算",
+      "日记账登记",
+      "办公软件",
+      "网银操作",
+      "细心严谨",
+      "责任心",
+      "保密意识",
+      "原则性",
+      "创新能力"
+    ],
+    "salary_range": "面议",
+    "industry": [
+      "互联网"
+    ],
+    "related_jobs": []
+  }
+]

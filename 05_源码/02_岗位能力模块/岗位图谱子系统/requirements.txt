@@ -1,0 +1,18 @@
+# 后端API框架
+fastapi==0.111.0
+uvicorn==0.30.1
+# 数据规范
+pydantic==2.8.2
+# 数据处理
+pandas==2.2.2
+numpy==1.26.4
+# 向量库
+faiss-cpu==1.8.0
+# 环境变量
+python-dotenv==1.0.1
+# 语义向量生成核心依赖（已优化为中文模型）
+sentence-transformers==2.7.0
+scikit-learn==1.5.0
+# 中文NLP优化
+transformers==4.42.3
+torch==2.3.1
